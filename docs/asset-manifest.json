@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/LoveMiles/static/js/main.d6bbc6a0.js",
+    "index.html": "/LoveMiles/index.html",
+    "main.d6bbc6a0.js.map": "/LoveMiles/static/js/main.d6bbc6a0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d6bbc6a0.js"
+  ]
+}
